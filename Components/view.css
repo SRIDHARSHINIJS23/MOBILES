@@ -1,0 +1,31 @@
+table{
+    
+    background-color:azure;
+    margin:auto;
+    font-family: cursive;
+    width:55%;
+}
+td{
+    border:solid gray 2px;
+}
+th{ background-color: cornflowerblue;
+    border:solid gray 2px;
+}
+.get{
+    
+    width:55%;
+    opacity:0.8;
+    background-color: whitesmoke;
+    padding-top: 8%;
+    padding-bottom: 10%;
+    font-family: cursive;
+    text-align: center;
+}
+.g1{
+    height:10%;
+    padding-top: 5%;
+    padding-bottom:5% ;
+    background-image: url('https://images.unsplash.com/photo-1532292060982-8bfb986808e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80');
+    background-size:cover;
+    height: 700px;
+}
